@@ -13,3 +13,4 @@ const users = [
 ];
 const userNames = users.map(user => user.name);
 console.log(userNames); // Output: ['Jone', 'Doe', 'Smith']
+
